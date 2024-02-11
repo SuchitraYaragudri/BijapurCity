@@ -31,6 +31,41 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
                 // Handle next button click
                 // Add your code to navigate to the next page or perform any other action
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 // Example:
                 // Intent intent = new Intent(MainActivity.this, CategoriesActivity.class);
                 // startActivity(intent);
